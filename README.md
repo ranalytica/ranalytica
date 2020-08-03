@@ -1,9 +1,11 @@
-### Hi there, I'm Richard - aka [ranalytica][] 👋
+### Hi there, I'm Richard - aka [ranalytica][website] 👋
 
 ## I'm a Husband, Father, Developer and Forever Learning.
-- 🔭 I’m currently working on a book regarding my experience in learning R-full-stack.
-- 🌱 I’m currently learning shiny using the Golem Framework by [thinkr](https://thinkr.fr/).
-- 
+- 🔭 Working on a book regarding my experience in learning R-full-stack.
+- 🌱 Currently learning shiny using the Golem Framework by [thinkr](https://thinkr.fr/).
+- 👯 Looking to collaborate with other content creators.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love electric vehicles and the clean air future it promises.
 
 ### Connect with me:
 
