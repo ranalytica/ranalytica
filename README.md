@@ -18,7 +18,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranalytica&show_icons=true&hide_border=true" />
 
-[website]: https//ranalytica.github.io
+[website]: https://ranalytica.github.io
 [twitter]: https://twitter.com/skinsteel
 [linkedin]: https://www.linkedin.com/in/richard-n-56915b31/
 
