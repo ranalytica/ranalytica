@@ -1,8 +1,7 @@
 ### Hi there, I'm Richard - aka [ranalytica][website] 👋
 
 ## I'm a Husband, Father, Developer and Forever Learning.
-- 🔭 Working on a book regarding my experience in learning R-full-stack.
-- 🌱 Currently learning shiny using the Golem Framework by [thinkr](https://thinkr.fr/).
+- 🔭 Constantly learning
 - 👯 Looking to collaborate with other content creators.
 
 ### Connect with me:
