@@ -1,6 +1,6 @@
 ### Hi there, I'm Richard - aka [ranalytica][website] 👋
 
-## I'm a Husband, Father, Developer and Forever Learning.
+## C'est la vie!
 - 🔭 Constantly learning
 - 👯 Looking to collaborate with other content creators.
 
